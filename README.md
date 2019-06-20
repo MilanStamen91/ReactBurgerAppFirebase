@@ -1,10 +1,8 @@
 # ReactBurgerApp Mobile+Desktop App connected with Firebase
+To run application run:
 
-install npm if you dont have,
-install webpack.
-
-To run application simple run:
-
+npm install,
+npm install webpack,
 npm start
 
 License: MIT
